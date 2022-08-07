@@ -54,3 +54,4 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
 
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfiloramo&label=Profile%20views&color=0e75b6&style=flat" alt="mfiloramo" /> </p>
