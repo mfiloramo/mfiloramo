@@ -7,7 +7,7 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
 
 <h3 align="left">Software Engineer at HiFiber (Open-Source)</h3>
 <p align="left">
-<a href="https://www.hifibertools.com/" target="blank"><img align="center" src="https://github.com/oslabs-beta/HiFiber/blob/dev/assets/images/hifiber-logo-mini.png?raw=true" alt="hifiber" height="58" width="60" /></a>
+<a href="http://www.hifibertools.com/" target="blank"><img align="center" src="https://github.com/oslabs-beta/HiFiber/blob/dev/assets/images/hifiber-logo-mini.png?raw=true" alt="hifiber" height="58" width="60" /></a>
 </p>
 
 
