@@ -5,7 +5,7 @@
 Hello! I'm a passionate and creative software engineer skilled at building full-stack solutions with JavaScript, Node/Express, React, Redux, Python, SQL/NoSQL, and REST APIs. I take great joy in developing solutions for challenging problems, and love building useful tools that help the developer community. Currently I'm working on an open-source project called HiFiber, a React Fiber tree visualization and performance metric tool. Feel free to peruse through my work. Let’s connect and build something awesome together!
 </p>
 
-<h3 align="left">Software Engineer at HiFiber (Open-Source)</h3>
+<h3 align="left">Software Engineer at HiFiber (Open Source)</h3>
 <p align="left">
 <a href="http://www.hifibertools.com/" target="blank"><img align="center" src="https://github.com/oslabs-beta/HiFiber/blob/dev/assets/images/hifiber-logo-mini.png?raw=true" alt="hifiber" height="58" width="60" /></a>
 </p>
