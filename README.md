@@ -48,8 +48,8 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-      <a href="https://www.dynatrace.com/" target="_blank"> <img src="" alt="Dynatrace" width="40" height="40"/> </a>
-      <a href="https://www.fluentd.org/" target="_blank"> <img src="https://github.com/fluent/fluentd-docs-gitbook/blob/53020426cdcfcb5a5f722031838ee1cb95b5a7a2/images/logo/Fluentd_icon.svg" alt="Fluentd" width="40" height="40"/> </a>fff
+      <a href="https://www.dynatrace.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dynatrace-logo-0B89594073-seeklogo.com.png" alt="Dynatrace" width="40" height="40"/> </a>
+      <a href="https://www.fluentd.org/" target="_blank"> <img src="https://github.com/fluent/fluentd-docs-gitbook/blob/53020426cdcfcb5a5f722031838ee1cb95b5a7a2/images/logo/Fluentd_icon.svg" alt="Fluentd" width="40" height="40"/> </a>
     <a href="https://axios-http.com/docs/intro" target="_blank"> <img src="https://avatars.githubusercontent.com/u/32372333?s=280&v=4" alt="axios" width="40" height="40"/> </a>
     <a href="https://www.pygame.org/news" target="_blank"> <img src="https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://siminnovations.com/wiki/images/7/7a/Arduino_logo_round.png" alt="arduino" width="40" height="40"/> </a>
