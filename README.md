@@ -1,5 +1,5 @@
 <h1 align="center">Welcome. I'm Mike!</h1>
-<h3 align="center">A dedicated and passionate full-stack software engineer from NYC</h3>
+<h3 align="center">A dedicated and passionate full stack software engineer from NYC</h3>
 
 <p>
 Hello! I'm a passionate and creative software engineer skilled at building full-stack solutions with JavaScript, Node, Express, React, Redux, Angular, Python, SQL/NoSQL, and REST APIs. I take great joy in developing solutions for challenging problems, and love building useful tools that help the developer community. Currently I'm a full stack software engineer at Sinclair Broadcast Group. I'm also the co-creator/developer of HiFiber, a developer tool that enables React Fiber tree visualization and performance metrics. Other projects I've contributed to are Hoot (an open-source news article fetching search engine), Dev-Helpr (a live chat forum for software developer support), and AnglerFish (a lightweight audio player). Feel free to peruse through my work. Let’s connect and build something awesome together!
