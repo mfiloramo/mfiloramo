@@ -35,7 +35,7 @@ Other projects I've contributed to are Hoot (an open-source news article fetchin
     <a href="https://svelte.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="34" height="38"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/> </a>
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://webpack.js.org/icon-pwa-512x512.d3dae4189855b3a72ff9.png (https://p1.hiclipart.com/preview/659/427/821/react-logo-webpack-babel-front-and-back-ends-turquoise-electric-blue-symbol-square-png-clipart-thumbnail.jpg)" alt="webpack" width="40" height="40"/> </a>
+    <a href="https://webpack.js.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/webpack-1-1174980.png" alt="webpack" width="40" height="40"/> </a>
     <a href="https://socket.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/> </a> 
     <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
