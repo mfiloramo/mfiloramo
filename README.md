@@ -55,7 +55,6 @@ Other projects I've contributed to are Hoot (an open-source news article fetchin
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
       <a href="https://www.dynatrace.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dynatrace-logo-0B89594073-seeklogo.com.png" alt="Dynatrace" width="40" height="40"/> </a>
       <a href="https://www.fluentd.org/" target="_blank"> <img src="https://github.com/fluent/fluentd-docs-gitbook/blob/53020426cdcfcb5a5f722031838ee1cb95b5a7a2/images/logo/Fluentd_icon.svg" alt="Fluentd" width="40" height="40"/> </a>
-    <a href="https://axios-http.com/docs/intro" target="_blank"> <img src="https://avatars.githubusercontent.com/u/32372333?s=280&v=4" alt="axios" width="40" height="40"/> </a>
     <a href="https://www.pygame.org/news" target="_blank"> <img src="https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://siminnovations.com/wiki/images/7/7a/Arduino_logo_round.png" alt="arduino" width="40" height="40"/> </a>
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </a>
