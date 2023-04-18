@@ -40,7 +40,7 @@ Other projects I've contributed to are Hoot (an open-source news article fetchin
   <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://material.angular.io/" target="_blank"> <img src="https://tinyurl.com/y7de4dcb" alt="ngMaterial" width="40" height="40"/> </a>
+      <a href="https://material.angular.io/" target="_blank"> <img src="https://camo.githubusercontent.com/dd543f7181aacc2cc0f62d3814249f66eb0cb20ce73695103a367f9e7e45f53b/68747470733a2f2f63646e2e7261776769742e636f6d2f6d69636861656c646f79652f6d61742d70726f67726573732d627574746f6e732f6d61737465722f64656d6f2f7372632f6173736574732f6c6f676f2e737667" alt="ngMaterial" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40"/>
