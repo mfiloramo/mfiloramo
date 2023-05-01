@@ -7,7 +7,7 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
 Other projects I've contributed to are Hoot (an open-source news article fetching search engine), Dev-Helpr (a live chat forum for software developer support), and AnglerFish (a lightweight audio player). Currently, I'm working on a personal project tentatively named WorldChat, a messaging application that allows for instant multilingual communication. Check it out! Other than that, feel free to peruse through my work. Let’s connect and build something awesome together!
 </p>
 
-<h3 align="left">Sole creator/developer of LingoLink messaging app</h3>
+<h3 align="left">Sole creator/developer of LingoLink, a dynamic multilingual messaging app. Check it out!</h3>
 <p align="left">
   <a href="https://github.com/mfiloramo/worldChatApp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493138-9e491842-962c-4620-a22d-017ef4f374f9.png" alt="lingolinkapp" height="60" width="60" /></a>
     <a href="https://github.com/mfiloramo/worldChatAPI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493147-37813212-59ee-491e-a320-728dfdd6db47.png" alt="lingolinkapp" height="60" width="60" /></a>
