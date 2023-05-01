@@ -14,7 +14,7 @@ Other projects I've contributed to are Hoot (an open-source news article fetchin
     <a href="https://github.com/mfiloramo/worldChatSQL" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493154-08a8f702-4bf3-4364-83f0-09d0c416f5fa.png" alt="lingolinkapp" height="60" width="60" /></a>
 </p>
 
-<h3 align="left">Co-creator/developer of HiFiber (Open Source)</h3>
+<h3 align="left">Co-creator/developer of HiFiber (Open Source), a React DevTool</h3>
 <p align="left">
   <a href="http://www.hifibertools.com/" target="blank"><img align="center" src="https://github.com/oslabs-beta/HiFiber/blob/dev/assets/images/hifiber-logo-mini.png?raw=true" alt="hifiber" height="58" width="60" /></a>
 </p>
