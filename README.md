@@ -7,18 +7,23 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
 Other projects I've contributed to are Hoot (an open-source news article fetching search engine), Dev-Helpr (a live chat forum for software developer support), and AnglerFish (a lightweight audio player). Currently, I'm working on a personal project tentatively named WorldChat, a messaging application that allows for instant multilingual communication. Check it out! Other than that, feel free to peruse through my work. Let’s connect and build something awesome together!
 </p>
 
+<h3 align="left">Sole creator/developer of LingoLink messaging app</h3>
+<p align="left">
+  <a href="https://github.com/mfiloramo/worldChatApp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493138-9e491842-962c-4620-a22d-017ef4f374f9.png" alt="lingolinkapp" height="60" width="60" /></a>
+    <a href="https://github.com/mfiloramo/worldChatAPI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493147-37813212-59ee-491e-a320-728dfdd6db47.png" alt="lingolinkapp" height="60" width="60" /></a>
+    <a href="https://github.com/mfiloramo/worldChatSQL" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493154-08a8f702-4bf3-4364-83f0-09d0c416f5fa.png" alt="lingolinkapp" height="60" width="60" /></a>
+</p>
+
 <h3 align="left">Co-creator/developer of HiFiber (Open Source)</h3>
 <p align="left">
-<a href="http://www.hifibertools.com/" target="blank"><img align="center" src="https://github.com/oslabs-beta/HiFiber/blob/dev/assets/images/hifiber-logo-mini.png?raw=true" alt="hifiber" height="58" width="60" /></a>
+  <a href="http://www.hifibertools.com/" target="blank"><img align="center" src="https://github.com/oslabs-beta/HiFiber/blob/dev/assets/images/hifiber-logo-mini.png?raw=true" alt="hifiber" height="58" width="60" /></a>
 </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<a href="https://www.linkedin.com/in/michael-filoramo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelfiloramo" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/quathan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="https://open.spotify.com/show/47bsykKB1LJ3NtzQf3CHTA?si=VXZyBPd1TY6bIanUkENf_Q&dl_branch=1" height="40" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/michael-filoramo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelfiloramo" height="30" width="40" /></a>
+  <a href="https://open.spotify.com/user/quathan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="https://open.spotify.com/show/47bsykKB1LJ3NtzQf3CHTA?si=VXZyBPd1TY6bIanUkENf_Q&dl_branch=1" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
