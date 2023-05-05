@@ -10,15 +10,14 @@ Other projects I've contributed to are Hoot (an open-source news article fetchin
 <h3 align="left">Sole creator/developer of LingoLink, a dynamic multilingual messaging app</h3>
 <p align="left">
   <a href="https://github.com/mfiloramo/worldChatApp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493138-9e491842-962c-4620-a22d-017ef4f374f9.png" alt="lingolinkapp" height="60" width="60" />
-    <a href="https://github.com/mfiloramo/worldChatAPI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493147-37813212-59ee-491e-a320-728dfdd6db47.png" alt="lingolinkapp" height="60" width="60" />
-    <a href="https://github.com/mfiloramo/worldChatSQL" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493154-08a8f702-4bf3-4364-83f0-09d0c416f5fa.png" alt="lingolinkapp" height="60" width="60" />
+    <a href="https://github.com/mfiloramo/worldChatAPI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493147-37813212-59ee-491e-a320-728dfdd6db47.png" alt="lingolinkapi" height="60" width="60" />
+    <a href="https://github.com/mfiloramo/worldChatSQL" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/236580402-d1956bd7-ff9d-44b8-b1d0-cea6a3459d1a.png" alt="lingolinksql" height="60" width="60" />
 </p>
 
 <h3 align="left">Co-creator/developer of HiFiber (Open Source), a React DevTool</h3>
 <p align="left">
   <a href="http://www.hifibertools.com/" target="blank"><img align="center" src="https://github.com/oslabs-beta/HiFiber/blob/dev/assets/images/hifiber-logo-mini.png?raw=true" alt="hifiber" height="58" width="60" />
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,8 +30,7 @@ Other projects I've contributed to are Hoot (an open-source news article fetchin
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/236578753-3e1ddc22-6e63-4620-a2f2-e2e66560ec01.png" alt="typescript" width="40" height="40"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/236578777-3770763f-f85d-413e-b4c9-f7afafe69515.png" alt="javascript" width="40" height="40"/>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="36" height="40"/> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://i.ibb.co/YyZ3N7z/js.png" alt="nodejs" width="36" height="40"/>
   <a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235751208-f8e1739e-67a8-4a4c-8b8b-e08b057a3580.png" alt="express" width="40" height="40"/>
   <a href="https://angular.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235690049-7261a5d5-9daa-4fa2-8d64-32901e0eabc5.png" alt="angular" width="40" height="42"/>
@@ -49,8 +47,8 @@ Other projects I've contributed to are Hoot (an open-source news article fetchin
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/236578257-87814c43-3a4a-4413-b66b-18d1c4c70ac8.png" alt="ms-sql-server" width="40" height="40"/>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/>
   <a href="https://sequelize.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="sequelize" width="37" height="40"/>
