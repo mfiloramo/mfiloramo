@@ -2,9 +2,7 @@
 <h3 align="center">A dedicated and passionate full stack software engineer from NYC</h3>
 
 <p>
-Hello! I'm a passionate and creative software engineer skilled at building full-stack solutions with TypeScript, JavaScript, Angular, React, Redux, Node, Express, Python, SQL/NoSQL, and numerous third-party APIs. I take great joy in developing solutions for challenging problems, and love building useful tools that help the developer community. I'm the co-creator/developer of HiFiber, a developer tool that enables React Fiber tree visualization and performance metrics. I've also worked as a Senior Software Engineer at Sinclair Broadcast Group.
-
-Other projects I've contributed to are Hoot (an open-source news article fetching search engine), Dev-Helpr (a live chat forum for software developer support), and AnglerFish (a lightweight audio player). Currently, I'm working on a personal project tentatively named WorldChat, a messaging application that allows for instant multilingual communication. Check it out! Other than that, feel free to peruse through my work. Let’s connect and build something awesome together!
+Hello! I'm a passionate and creative software engineer skilled at building full-stack solutions with TypeScript, JavaScript, Angular, React, Redux, Node, Express, Python, SQL/NoSQL, and numerous third-party APIs. I take great joy in developing solutions for challenging problems, and love building useful tools that help the developer community. I'm the co-creator/developer of HiFiber, a developer tool that enables React Fiber tree visualization and performance metrics. I've also worked as a Senior Software Engineer at Sinclair Broadcast Group. Let’s connect and build something awesome together!
 </p>
 
 <h3 align="left">Sole creator/developer of LingoLink, a dynamic multilingual messaging app</h3>
