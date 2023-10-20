@@ -33,7 +33,6 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
   <a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235751208-f8e1739e-67a8-4a4c-8b8b-e08b057a3580.png" alt="express" width="40" height="40"/>
   <a href="https://angular.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235690049-7261a5d5-9daa-4fa2-8d64-32901e0eabc5.png" alt="angular" width="40" height="42"/>
   <a href="https://material.angular.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235689161-97bab0c0-7aaf-4af5-99fb-3060213ee09f.png" alt="material" width="40" height="42"/>
-  <a href="https://ionicframework.com//" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235688363-cbb55b67-d12b-4476-80a8-79041de0d92f.png" alt="ionic" width="40" height="40"/>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <a href="https://svelte.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="34" height="38"/>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
