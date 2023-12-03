@@ -61,7 +61,3 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://siminnovations.com/wiki/images/7/7a/Arduino_logo_round.png" alt="arduino" width="40" height="40"/>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </p>
-
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfiloramo&label=Profile%20views&color=0e75b6&style=flat" alt="mfiloramo" /> </p>
