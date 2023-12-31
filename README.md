@@ -31,15 +31,13 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
   <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://i.ibb.co/YyZ3N7z/js.png" alt="nodejs" width="36" height="40"/>
   <a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235751208-f8e1739e-67a8-4a4c-8b8b-e08b057a3580.png" alt="express" width="40" height="40"/>
-  <a href="https://angular.io/" target="_blank"> <img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/5cf0fe89-11a2-4bd0-930c-853cd861b763" alt="angular" width="42" height="42"/> 
-  <a href="https://material.angular.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235689161-97bab0c0-7aaf-4af5-99fb-3060213ee09f.png" alt="material" width="40" height="42"/>
+  <a href="https://angular.io/" target="_blank"> <img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/5cf0fe89-11a2-4bd0-930c-853cd861b763" alt="angular" width="42" height="42"/>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <a href="https://svelte.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="34" height="38"/>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/>
   <a href="https://webpack.js.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/webpack-1-1174980.png" alt="webpack" width="40" height="40"/>
-  <a href="https://socket.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/> 
-  <a href="https://babeljs.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/236577522-102e62ff-8a33-43c5-8657-cb7db86cdaac.png" alt="babel" width="40" height="40"/>
+  <a href="https://socket.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
