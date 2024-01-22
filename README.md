@@ -2,7 +2,9 @@
 <h3 align="center">A dedicated and passionate full stack software engineer from NYC</h3>
 
 <p>
-Hello! I'm a passionate and creative software engineer skilled at building full-stack solutions with TypeScript, JavaScript, Angular, React, Redux, Node, Express, Python, SQL/NoSQL, and numerous third-party APIs. I take great joy in developing solutions for challenging problems, and love building useful tools that help the developer community. I'm the co-creator/developer of HiFiber, a developer tool that enables React Fiber tree visualization and performance metrics. I've also worked as a Senior Full Stack Engineer at Sinclair Broadcast Group, as well as the National Basketball Player's Association. Check out my latest project, LingoLink -- a mobile-first, multilingual messaging application!
+Hello! I'm a passionate and creative software engineer skilled at building full-stack solutions with TypeScript, JavaScript, Angular, React, Redux, Node, Express, Python, SQL/NoSQL, and numerous third-party APIs. I take great joy in developing solutions for challenging problems, and love building useful tools that help the developer community.
+  
+I'm the co-creator/developer of HiFiber, a developer tool that enables React Fiber tree visualization and performance metrics. I've also worked as a Senior Full Stack Engineer at Sinclair Broadcast Group, as well as the National Basketball Player's Association. Check out my latest project, LingoLink -- a mobile-first, multilingual messaging application!
 </p>
 
 <h3 align="left">Sole creator/developer of LingoLink, a dynamic multilingual messaging app</h3>
