@@ -7,7 +7,7 @@ Hello! I'm a passionate and creative software engineer skilled at building full-
 I'm the co-creator/developer of HiFiber, a developer tool that enables React Fiber tree visualization and performance metrics. I've also worked as a Senior Full Stack Engineer at Sinclair Broadcast Group, as well as the National Basketball Player's Association. Check out my latest project, LingoLink -- a mobile-first, multilingual messaging application!
 </p>
 
-<h3 align="left">Sole creator/developer of LingoLink, a dynamic multilingual messaging app</h3>
+<h3 align="left">Sole creator/developer of LingoLink, a dynamic multilingual messaging platform</h3>
 <p align="left">
   <a href="https://github.com/mfiloramo/worldChatApp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493138-9e491842-962c-4620-a22d-017ef4f374f9.png" alt="lingolinkapp" height="60" width="60" />
     <a href="https://github.com/mfiloramo/worldChatAPI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72812809/235493147-37813212-59ee-491e-a320-728dfdd6db47.png" alt="lingolinkapi" height="60" width="60" />
