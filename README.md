@@ -2,9 +2,9 @@
 <h3 align="center">A dedicated and passionate full stack software engineer from NYC</h3>
 
 <p>
-Welcome! I'm an accomplished software engineer with a proven track record of delivering innovative full-stack solutions. My expertise lies in leveraging a broad tech stack to solve complex problems, enhance user experiences, and drive efficiency.
+Welcome! I'm an accomplished software engineer with a proven track record of delivering innovative full-stack solutions. My expertise lies in leveraging a broad tech stack to solve complex problems, enhance user experiences and drive efficiency.
   
-I'm the co-creator/developer of HiFiber, a developer tool that enables React Fiber tree visualization and performance metrics. I've also worked as a Senior Full Stack Engineer at Sinclair Broadcast Group, as well as the National Basketball Player's Association.
+I'm the co-creator/developer of HiFiber, a developer tool that enables dynamic React Fiber tree visualization and performance metrics. I've also worked as a Senior Full Stack Engineer at Sinclair Broadcast Group, as well as the National Basketball Player's Association.
 
 Check out my latest project, <a href="https://orange-tree-0d3c88e0f.3.azurestaticapps.net/">LingoLink</a> -- a mobile-first, multilingual messaging application! Also check out my <a href="https://michael-filoramo.com">portfolio</a>.
 </p>
