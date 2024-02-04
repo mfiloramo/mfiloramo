@@ -61,5 +61,5 @@ Check out my latest project, <a href="https://orange-tree-0d3c88e0f.3.azurestati
   <a href="https://www.fluentd.org/" target="_blank"> <img src="https://github.com/fluent/fluentd-docs-gitbook/blob/53020426cdcfcb5a5f722031838ee1cb95b5a7a2/images/logo/Fluentd_icon.svg" alt="Fluentd" width="40" height="40"/>
   <a href="https://www.pygame.org/news" target="_blank"> <img src="https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://siminnovations.com/wiki/images/7/7a/Arduino_logo_round.png" alt="arduino" width="40" height="40"/>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <a href="https://www.photoshop.com/en" target="_blank">
 </p>
