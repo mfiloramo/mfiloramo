@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated and passionate full stack software engineer from NYC</h3>
 
 <p>
-Welcome! I'm a dedicated full stack software engineer with a proven track record of delivering innovative full-stack solutions. My expertise lies in leveraging a broad tech stack to solve complex problems, enhance user experiences and drive efficiency.
+Welcome! I'm a dedicated full stack software engineer with experience delivering innovative full-stack solutions. My expertise lies in leveraging a broad tech stack to solve complex problems, enhance user experiences and drive efficiency.
   
 I'm the co-creator/developer of HiFiber, a developer tool that enables dynamic React Fiber tree visualization and performance metrics. I've also worked as a Senior Full Stack Engineer at Sinclair Broadcast Group, as well as the National Basketball Player's Association.
 
