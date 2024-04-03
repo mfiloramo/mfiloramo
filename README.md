@@ -6,7 +6,7 @@ Welcome! I'm a dedicated full stack software engineer with experience delivering
   
 I'm the co-creator/developer of HiFiber, a developer tool that enables dynamic React Fiber tree visualization and performance metrics. I've also worked as a Senior Full Stack Engineer at Sinclair Broadcast Group, as well as the National Basketball Player's Association.
 
-I welcome you to explore my <a href="https://michael-filoramo.com">portfolio</a>. Also be sure to check out my latest project, <a href="https://orange-tree-0d3c88e0f.3.azurestaticapps.net/">LingoLink</a> -- a mobile-first, multilingual messaging application!
+I welcome you to explore my <a href="https://michael-filoramo.com">portfolio</a>. Also be sure to check out my latest project, <a href="https://michael-filoramo.com/portfolio/lingolink">LingoLink</a> -- a mobile-first, multilingual messaging application!
 </p>
 
 <h3 align="left">Creator/developer of LingoLink, a dynamic multilingual messaging platform</h3>
