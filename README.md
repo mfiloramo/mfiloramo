@@ -1,5 +1,5 @@
 <img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/1991f3d8-d309-47f7-ab12-80b21ce19303" alt="banner" />
-<br><br>
+<br>
 
 <p>
 Welcome! I'm a dedicated full stack software engineer with experience delivering innovative full-stack solutions. My expertise lies in leveraging a broad tech stack to solve complex problems, enhance user experiences and drive efficiency.
