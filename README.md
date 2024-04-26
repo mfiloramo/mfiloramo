@@ -38,18 +38,18 @@
   <a href="https://angular.io/" target="_blank"> <img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/5cf0fe89-11a2-4bd0-930c-853cd861b763" alt="angular" width="42" height="42"/>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/2bc7633e-874a-466d-ae42-3a633d89a359" alt="nextjs" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/>
   <a href="https://socket.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/236578257-87814c43-3a4a-4413-b66b-18d1c4c70ac8.png" alt="ms-sql-server" width="40" height="40"/>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/>
   <a href="https://sequelize.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="sequelize" width="37" height="40"/>
   <a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjw6cKiBhD5ARIsAKXUdyYrXDXSt64l7wV9b_mbNz7NQoLd8C6rGJ5kdJlHqgHAA6RmhCyD4gEaAoHWEALw_wcB_k_&OCID=AIDcmm5edswduu_SEM__k_Cj0KCQjw6cKiBhD5ARIsAKXUdyYrXDXSt64l7wV9b_mbNz7NQoLd8C6rGJ5kdJlHqgHAA6RmhCyD4gEaAoHWEALw_wcB_k_&gad=1&gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyYrXDXSt64l7wV9b_mbNz7NQoLd8C6rGJ5kdJlHqgHAA6RmhCyD4gEaAoHWEALw_wcB" target="_blank"> <img src="https://user-images.githubusercontent.com/72812809/235690910-cfa4a49f-1caf-44e4-836c-34fcfc71e280.png" alt="sequelize" width="45" height="40"/>
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://turbo.build/pack" target="_blank"> <img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/2f0959b8-21d6-431c-85e5-b2cde5d7688f" alt="turbopack" width="40" height="40"/>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      <a href="https://turbo.build/pack" target="_blank"> <img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/2f0959b8-21d6-431c-85e5-b2cde5d7688f" alt="turbopack" width="40" height="40"/>
+  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
