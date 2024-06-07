@@ -1,4 +1,4 @@
-<img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/1991f3d8-d309-47f7-ab12-80b21ce19303" alt="banner" />
+![1717505729500](https://github.com/mfiloramo/mfiloramo/assets/72812809/a07c1201-d2e4-4b43-96e0-6c825b029e2a)
 <br>
 
 <p>
