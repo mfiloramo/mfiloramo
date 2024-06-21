@@ -4,7 +4,6 @@
 <p>
   Welcome! I'm a dedicated software engineer with experience delivering innovative solutions in full stack web development. My expertise lies in leveraging a broad tech stack to solve complex problems, enhance user experiences and drive efficiency. I welcome you to explore my <a href="https://michael-filoramo.com">portfolio</a>!
   
-  I created, developed, launched and currently maintain a multilingual messaging platform, <a href="https://michael-filoramo.com/portfolio/lingolink">LingoLink</a> -- a mobile-first messaging app that facilitates effortless multilingual communication with dynamic, instant translation via Google Translate. 
     
   I'm also the co-creator/developer of HiFiber, a developer tool that enables dynamic React Fiber tree visualization and performance metrics. Also, I've worked as a Senior Full Stack Engineer at Sinclair Broadcast Group, as well as the National Basketball Player's Association.
 </p>
