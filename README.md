@@ -1,4 +1,4 @@
-![1717505729500](https://github.com/mfiloramo/mfiloramo/assets/72812809/a07c1201-d2e4-4b43-96e0-6c825b029e2a)
+![322324068-1991f3d8-d309-47f7-ab12-80b21ce19303](https://github.com/mfiloramo/mfiloramo/assets/72812809/b6c72a9a-3c2f-4136-9f06-1b6d4a72db90)
 <br>
 
 <p>
