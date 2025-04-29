@@ -39,6 +39,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/mfiloramo/mfiloramo/assets/72812809/2bc7633e-874a-466d-ae42-3a633d89a359" alt="nextjs" width="40" height="40"/>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <a href="https://prettier.io/" target="_blank"> <img src="https://github.com/user-attachments/assets/59403e2e-b11c-4c30-a0ec-3757f93b15e5" alt="prettier" width="40" height="40"/>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/>
   <a href="https://socket.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/>
